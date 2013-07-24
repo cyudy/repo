@@ -1,1 +1,2 @@
-This is first master
+This is first master,
+added second line
